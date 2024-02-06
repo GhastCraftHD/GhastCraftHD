@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/ghast.gif?raw=true" width="125"/>
+  <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/ghast.gif?raw=true" width="115"/>
   <h1>GhastCraftHD</h1>
   <div id="badges">
     <img src="https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white"/>
