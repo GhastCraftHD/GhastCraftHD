@@ -26,7 +26,7 @@ Student of media and computer science who takes himself too seriously
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **TECHSTACK**
-<div id="techstack" align="center">
+<!--div id="techstack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
@@ -36,7 +36,7 @@ Student of media and computer science who takes himself too seriously
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg" title="Unreal Engine" alt="Unreal" width="50" height="50"/>&nbsp;
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png" title="PaperMC" alt="PaperMC" width="50" height="50"/>&nbsp;
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/jetbrains.svg" title="Everything JetBrains" alt="JenBrains" width="50" height="50"/>&nbsp;
-</div>
+</div-->
 <table align="center" width="450px">
   <tbody>
     <tr valign="top">
@@ -82,6 +82,50 @@ Student of media and computer science who takes himself too seriously
             title="C#"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
+          />
+        </td>
+      <td width="80px" align="center">
+          <span
+            ><sup><b>MySQL Databases</b></sup></span
+          ><br />
+          <img
+            alt="MySQL"
+            title="MySQL"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+          />
+        </td>
+      <td width="80px" align="center">
+          <span
+            ><sup><b>Delphi (Pascal)</b></b></sup></span
+          ><br />
+          <img
+            alt="Delphi"
+            title="Delphi"
+            width="50px"
+            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
+          />
+        </td>
+      <td width="80px" align="center">
+          <span
+            ><sup><b>PaperMC</b></sup></span
+          ><br />
+          <img
+            alt="PaperMC"
+            title="PaperMC"
+            width="50px"
+            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png"
+          />
+        </td>
+      <td width="80px" align="center">
+          <span
+            ><sup><b>Unreal Engine</b></sup></span
+          ><br />
+          <img
+            alt="Unreal Engine"
+            title="Unreal Engine"
+            width="50px"
+            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg"
           />
         </td>
   </tbody>
