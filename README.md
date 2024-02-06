@@ -83,7 +83,7 @@ Student of media and computer science who takes himself too seriously
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
           />
-        <span><sup><b>MySQL Databases</b></sup></span>
+        <span><sup><b>MySQL</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
@@ -92,7 +92,7 @@ Student of media and computer science who takes himself too seriously
             width="50px"
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
           />
-        <span><sup><b>Embarcadero Delphi (Pascal)</b></sup></span>
+        <span><sup><b>Pascal</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
@@ -110,7 +110,7 @@ Student of media and computer science who takes himself too seriously
             width="50px"
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg"
           />
-        <span><sup><b>Unreal Engine</b></sup></span>
+        <span><sup><b>Unreal</b></sup></span>
         </td>
   </tbody>
 </table>
