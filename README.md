@@ -50,6 +50,9 @@ Student of media and computer science who takes himself too seriously
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
           />
+        <span
+            ><sup><b>Java</b></sup></span
+          >
         </td>
       <td width="80px" align="center">
           <span
