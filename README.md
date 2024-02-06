@@ -16,8 +16,14 @@
 ---
 
 ### About me:
-I'm a student and artist who takes himself far too seriously
+Artist and student who takes himself too seriously
 - 🏢 Working as a dual student for [novomind](https://www.novomind.com/en/)
 - 🎮 Making scuffed games in my free time
 - 🤯 Trying to improve user experiences with tools and plugins
 - 📫 Reachable on Discord ![Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
+
+---
+### 📚 Techstacks:
+<div id="techstack" align="center">
+  <img srg="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="50"/>
+</div>
