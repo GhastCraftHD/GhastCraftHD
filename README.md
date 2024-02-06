@@ -26,7 +26,7 @@ Student of media and computer science who takes himself too seriously
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **TECHSTACK**
-<!--div id="techstack" align="center">
+<div id="techstack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
@@ -36,7 +36,7 @@ Student of media and computer science who takes himself too seriously
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg" title="Unreal Engine" alt="Unreal" width="50" height="50"/>&nbsp;
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png" title="PaperMC" alt="PaperMC" width="50" height="50"/>&nbsp;
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/jetbrains.svg" title="Everything JetBrains" alt="JenBrains" width="50" height="50"/>&nbsp;
-</div-->
+</div>
 <table align="center" width="450px">
   <tbody>
     <tr valign="top">
