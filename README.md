@@ -37,5 +37,5 @@ Student of media and computer science who takes himself too seriously
 </div>
 <br>
 <div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhastCraftHD&layout=compact&theme=github-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhastCraftHD&layout=compact&theme=onedark">
 </div>
