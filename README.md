@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/ghast_cut_transparent.gif?raw=true" width="150"/>
+  <h1>GhastCraftHD</h1>
   <div id="badges">
     <img src="https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white"/>
   <a href="https://www.youtube.com/@GhastCraftHD"/>
@@ -10,7 +11,6 @@
   </a>
 </div>
   <!--<img src="https://komarev.com/ghpvc/?username=GhastCraftHD&style=flat-square&color=red" alt=""/>-->
-  <h1>GhastCraftHD</h2>
 </div>
 
 ---
