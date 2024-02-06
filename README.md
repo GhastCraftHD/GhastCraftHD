@@ -23,7 +23,7 @@ Artist and student who takes himself too seriously
 - 📫 Reachable on Discord ![Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
 
 ---
-### 📚 Techstacks:
+### 📚 Techstack:
 <div id="techstack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png" title="PaperMC" alt="PaperMC" width="50" height="50"/>&nbsp;
