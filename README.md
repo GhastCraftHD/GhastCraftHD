@@ -16,7 +16,7 @@
 ---
 
 ### About me:
-Artist and student who takes himself too seriously
+Student of media and computer science who takes himself too seriously
 - 🏢 Working as a dual student for [novomind](https://www.novomind.com/en/)
 - 🎮 Making scuffed games in my free time
 - 🤯 Trying to improve user experiences with tools and plugins
