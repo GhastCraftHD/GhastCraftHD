@@ -25,5 +25,5 @@ Artist and student who takes himself too seriously
 ---
 ### 📚 Techstacks:
 <div id="techstack" align="center">
-  <img srg="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 </div>
