@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=GhastCraftHD&style=flat-square&color=red" alt=""/>
+  <!--<img src="https://komarev.com/ghpvc/?username=GhastCraftHD&style=flat-square&color=red" alt=""/>-->
   <h1>GhastCraftHD</h2>
 </div>
 
