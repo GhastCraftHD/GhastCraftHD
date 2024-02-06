@@ -35,7 +35,7 @@ Student of media and computer science who takes himself too seriously
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu (Linux)" alt="Ubuntu" width="50" height="50"/>&nbsp;
 </div>
-#
+<br>
 <div id="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhastCraftHD&layout=compact&theme=onedark">
 </div>
