@@ -13,3 +13,7 @@
 </div>
 
 ---
+
+### About me:
+I'm a student and artist who takes himself far too seriously
+- 🏢 Working as a dual student for [novomind](https://www.novomind.com/en/)
