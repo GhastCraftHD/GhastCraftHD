@@ -51,6 +51,39 @@ Student of media and computer science who takes himself too seriously
             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
           />
         </td>
+      <td width="80px" align="center">
+          <span
+            ><sup><b>C</b></sup></span
+          ><br />
+          <img
+            alt="C"
+            title="C"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+          />
+        </td>
+      <td width="80px" align="center">
+          <span
+            ><sup><b>C++</b></sup></span
+          ><br />
+          <img
+            alt="C++"
+            title="C++"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
+          />
+        </td>
+      <td width="80px" align="center">
+          <span
+            ><sup><b>C#</b></sup></span
+          ><br />
+          <img
+            alt="C#"
+            title="C#"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
+          />
+        </td>
   </tbody>
 </table>
 <br>
