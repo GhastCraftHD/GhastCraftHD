@@ -41,95 +41,76 @@ Student of media and computer science who takes himself too seriously
   <tbody>
     <tr valign="top">
       <td width="80px" align="center">
-          <span
-            ><sup><b>Java</b></sup></span
-          ><br />
           <img
             alt="Java"
             title="Java"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
           />
-        <span
-            ><sup><b>Java</b></sup></span
-          >
+        <span><sup><b>Java</b></sup></span>
         </td>
       <td width="80px" align="center">
-          <span
-            ><sup><b>C</b></sup></span
-          ><br />
           <img
             alt="C"
             title="C"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
           />
+        <span><sup><b>C</b></sup></span>
         </td>
       <td width="80px" align="center">
-          <span
-            ><sup><b>C++</b></sup></span
-          ><br />
           <img
             alt="C++"
             title="C++"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
           />
+        <span><sup><b>C++</b></sup></span>
         </td>
       <td width="80px" align="center">
-          <span
-            ><sup><b>C#</b></sup></span
-          ><br />
           <img
             alt="C#"
             title="C#"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
           />
+        <span><sup><b>C#</b></sup></span>
         </td>
       <td width="80px" align="center">
-          <span
-            ><sup><b>MySQL Databases</b></sup></span
-          ><br />
           <img
             alt="MySQL"
             title="MySQL"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
           />
+        <span><sup><b>MySQL Databases</b></sup></span>
         </td>
       <td width="80px" align="center">
-          <span
-            ><sup><b>Delphi (Pascal)</b></b></sup></span
-          ><br />
           <img
             alt="Delphi"
             title="Delphi"
             width="50px"
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
           />
+        <span><sup><b>Embarcadero Delphi (Pascal)</b></sup></span>
         </td>
       <td width="80px" align="center">
-          <span
-            ><sup><b>PaperMC</b></sup></span
-          ><br />
           <img
             alt="PaperMC"
             title="PaperMC"
             width="50px"
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png"
           />
+        <span><sup><b>PaperMC</b></sup></span>
         </td>
       <td width="80px" align="center">
-          <span
-            ><sup><b>Unreal Engine</b></sup></span
-          ><br />
           <img
             alt="Unreal Engine"
             title="Unreal Engine"
             width="50px"
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg"
           />
+        <span><sup><b>Unreal Engine</b></sup></span>
         </td>
   </tbody>
 </table>
