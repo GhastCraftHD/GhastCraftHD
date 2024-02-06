@@ -18,3 +18,6 @@
 ### About me:
 I'm a student and artist who takes himself far too seriously
 - 🏢 Working as a dual student for [novomind](https://www.novomind.com/en/)
+- 🎮 Making scuffed games in my free time
+- 🤯 Trying to improve user experiences with tools and plugins
+- 📫 Reachable on Discord [Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
