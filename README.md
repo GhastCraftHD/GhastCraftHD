@@ -16,6 +16,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **ABOUT ME**
+
 Student of media and computer science who takes himself too seriously
 - 🏢 Working as a dual student at [novomind](https://www.novomind.com/en/)
 - 🎮 Making scuffed games in my free time
@@ -23,6 +24,7 @@ Student of media and computer science who takes himself too seriously
 - 📫 Reachable on Discord ![Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 **📚 Techstack**
 <div id="techstack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
