@@ -13,7 +13,7 @@
   <!--<img src="https://komarev.com/ghpvc/?username=GhastCraftHD&style=flat-square&color=red" alt=""/>-->
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
 **ABOUT ME**
 
@@ -23,7 +23,7 @@ Student of media and computer science who takes himself too seriously
 - 🤯 Trying to improve user experiences with tools and plugins
 - 📫 Reachable on Discord ![Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
 **TECHSTACK**
 <!--div id="techstack" align="center">
