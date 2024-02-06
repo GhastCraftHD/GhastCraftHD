@@ -25,7 +25,7 @@ Student of media and computer science who takes himself too seriously
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-**📚 Techstack**
+**TECHSTACK**
 <div id="techstack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -37,6 +37,22 @@ Student of media and computer science who takes himself too seriously
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png" title="PaperMC" alt="PaperMC" width="50" height="50"/>&nbsp;
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/jetbrains.svg" title="Everything JetBrains" alt="JenBrains" width="50" height="50"/>&nbsp;
 </div>
+<table align="center" width="450px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+          <span
+            ><sup><b>Java</b></sup></span
+          ><br />
+          <img
+            alt="Java"
+            title="Java"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+          />
+        </td>
+  </tbody>
+</table>
 <br>
 <div id="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhastCraftHD&layout=compact&theme=github_dark&langs_count=6">
