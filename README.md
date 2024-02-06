@@ -3,5 +3,5 @@
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  <img src="https://img.shields.io/badge/Discord-purple?logo=discord&logoColor=white" alt="Discord Badge"/>
+  <img src="https://img.shields.io/badge/Discord-violet?logo=discord&logoColor=white" alt="Discord Badge"/>
 </div>
