@@ -25,15 +25,15 @@ Student of media and computer science who takes himself too seriously
 ---
 ### 📚 Techstack:
 <div id="techstack" align="center">
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png" title="PaperMC" alt="PaperMC" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg" title="Unreal Engine" alt="Unreal" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png" title="Embarcadero Delphi (Object Pascal)" alt="Delphi" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Microsoft Java" alt="C#" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/jetbrains.svg" title="Everything JetBrains" alt="JenBrains" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu (Linux)" alt="Ubuntu" width="50" height="50"/></code>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png" title="PaperMC" alt="PaperMC" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg" title="Unreal Engine" alt="Unreal" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png" title="Embarcadero Delphi (Object Pascal)" alt="Delphi" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Microsoft Java" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/jetbrains.svg" title="Everything JetBrains" alt="JenBrains" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu (Linux)" alt="Ubuntu" width="50" height="50"/>&nbsp;
 </div>
 <br>
 <div id="stats" align="center">
