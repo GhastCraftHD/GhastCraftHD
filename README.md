@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/ghast.gif?raw=true" width="115"/>
   <h1>GhastCraftHD</h1>
-  <div id="badges">
+  <!--div id="badges">
     <img src="https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white"/>
   <a href="https://www.youtube.com/@GhastCraftHD"/>
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube Badge"/>
@@ -9,7 +9,7 @@
   <a href="https://www.twitch.tv/ghastcrafthd">
     <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
-</div>
+</div-->
   <!--<img src="https://komarev.com/ghpvc/?username=GhastCraftHD&style=flat-square&color=red" alt=""/>-->
 </div>
 
