@@ -18,7 +18,7 @@
 **ABOUT ME**
 
 Student of media and computer science who takes himself too seriously
-- 🏢 Working as a dual student at [novomind](https://www.novomind.com/en/)
+- 🏢 Doing cooperative studies with [novomind](https://www.novomind.com/en/)
 - 🎮 Making scuffed games in my free time
 - 🤯 Trying to improve user experiences with tools and plugins
 - 📫 Reachable on Discord ![Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
