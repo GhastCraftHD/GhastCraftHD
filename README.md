@@ -78,6 +78,15 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
+            alt="Go"
+            title="Go"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
+          />
+        <span><sup><b>Go</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
             alt="MySQL"
             title="MySQL"
             width="50px"
