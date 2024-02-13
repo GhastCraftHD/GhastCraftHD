@@ -51,30 +51,21 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
+            alt="CKotlin"
+            title="Kotlin"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"
+          />
+        <span><sup><b>Kotlin</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
             alt="C"
             title="C"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
           />
         <span><sup><b>C</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="C++"
-            title="C++"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
-          />
-        <span><sup><b>C++</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="C#"
-            title="C#"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
-          />
-        <span><sup><b>C#</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
