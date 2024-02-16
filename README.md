@@ -25,7 +25,7 @@ Student of media and computer science who takes himself too seriously
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-**TECHSTACK**
+**I SPEAK**
 <!--div id="techstack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -93,24 +93,6 @@ Student of media and computer science who takes himself too seriously
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
           />
         <span><sup><b>Pascal</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="PaperMC"
-            title="PaperMC"
-            width="50px"
-            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/papermc.png"
-          />
-        <span><sup><b>PaperMC</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="Unreal Engine"
-            title="Unreal Engine"
-            width="50px"
-            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/unreal-white.svg"
-          />
-        <span><sup><b>Unreal</b></sup></span>
         </td>
   </tbody>
 </table>
