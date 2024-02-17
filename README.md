@@ -78,6 +78,15 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
+            alt="Mate"
+            title="Mate"
+            width="50px"
+            src=" https://github.com/GhastCraftHD/GhastCraftHD/blob/main/mate-original.svg"
+          />
+        <span><sup><b>Mate</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
             alt="MySQL"
             title="MySQL"
             width="50px"
