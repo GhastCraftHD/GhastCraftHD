@@ -80,7 +80,7 @@ Student of media and computer science who takes himself too seriously
           <img
             alt="Mate"
             title="Mate"
-            width="40px"
+            width="37px"
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/mate-original.svg"
           />
         <span><sup><b>Mate</b></sup></span>
