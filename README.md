@@ -51,12 +51,30 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
-            alt="CKotlin"
+            alt="Kotlin"
             title="Kotlin"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"
           />
         <span><sup><b>Kotlin</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
+            alt="HTML"
+            title="HTML"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+          />
+        <span><sup><b>HTML</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
+            alt="CSS"
+            title="CSS"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+          />
+        <span><sup><b>CSS</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
@@ -84,24 +102,6 @@ Student of media and computer science who takes himself too seriously
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/mate-original.svg"
           />
         <span><sup><b>Mate</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="HTML"
-            title="HTML"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-          />
-        <span><sup><b>HTML</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="CSS"
-            title="CSS"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-          />
-        <span><sup><b>CSS</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
