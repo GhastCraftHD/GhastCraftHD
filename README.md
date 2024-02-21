@@ -87,6 +87,24 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
+            alt="HTML"
+            title="HTML"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+          />
+        <span><sup><b>HTML</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
+            alt="CSS"
+            title="CSS"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+          />
+        <span><sup><b>CSS</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
             alt="MySQL"
             title="MySQL"
             width="50px"
