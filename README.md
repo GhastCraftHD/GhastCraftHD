@@ -42,6 +42,15 @@ Student of media and computer science who takes himself too seriously
     <tr valign="top">
       <td width="80px" align="center">
           <img
+            alt="C"
+            title="C"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+          />
+        <span><sup><b>C</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
             alt="Java"
             title="Java"
             width="50px"
@@ -75,16 +84,7 @@ Student of media and computer science who takes himself too seriously
             src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
           />
         <span><sup><b>JavaScript</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="C"
-            title="C"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-          />
-        <span><sup><b>C</b></sup></span>
-        </td>
+      </td>
       <td width="80px" align="center">
           <img
             alt="Go"
