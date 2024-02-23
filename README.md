@@ -48,16 +48,7 @@ Student of media and computer science who takes himself too seriously
             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
           />
         <span><sup><b>Java</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="Kotlin"
-            title="Kotlin"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"
-          />
-        <span><sup><b>Kotlin</b></sup></span>
-        </td>
+      </td>
       <td width="80px" align="center">
           <img
             alt="HTML"
@@ -75,6 +66,15 @@ Student of media and computer science who takes himself too seriously
             src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
           />
         <span><sup><b>CSS</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
+            alt="JavaScript"
+            title="JavaScript"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+          />
+        <span><sup><b>JavaScript</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
