@@ -96,12 +96,12 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
-            alt="Mate"
-            title="Mate"
-            width="38px"
-            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/mate-original.svg"
+            alt="Rust"
+            title="Rust"
+            width="50px"
+            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/rust-original.svg"
           />
-        <span><sup><b>Mate</b></sup></span>
+        <span><sup><b>Rust</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
