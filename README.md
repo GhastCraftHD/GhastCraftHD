@@ -119,7 +119,7 @@ Student of media and computer science who takes himself too seriously
             width="50px"
             src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
           />
-        <span><sup><b>Pascal</b></sup></span>
+        <span><sup><b>Phlöp</b></sup></span>
         </td>
   </tbody>
 </table>
