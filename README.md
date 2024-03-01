@@ -26,6 +26,9 @@ Student of media and computer science who takes himself too seriously
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
+> There are only two kinds of languages: the ones people complain about and the ones nobody uses
+> > Bjarne Stroustrup
+
 **I SPEAK**
 <!--div id="techstack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
