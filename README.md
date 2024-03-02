@@ -49,39 +49,29 @@ Student of media and computer science who takes himself too seriously
     <tr valign="top">
       <td width="80px" align="center">
           <img
-            alt="C"
-            title="C"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-          />
-        <span><sup><b>C</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
             alt="Java"
             title="Java"
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
           />
         <span><sup><b>Java</b></sup></span>
-      </td>
-      <td width="80px" align="center">
+        <td width="80px" align="center">
           <img
-            alt="HTML"
-            title="HTML"
+            alt="Rust"
+            title="Rust"
             width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/rust-original.svg"
           />
-        <span><sup><b>HTML</b></sup></span>
+        <span><sup><b>Rust</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
-            alt="CSS"
-            title="CSS"
+            alt="Go"
+            title="Go"
             width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
           />
-        <span><sup><b>CSS</b></sup></span>
+        <span><sup><b>Go</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
@@ -94,12 +84,12 @@ Student of media and computer science who takes himself too seriously
       </td>
       <td width="80px" align="center">
           <img
-            alt="Rust"
-            title="Rust"
+            alt="C"
+            title="C"
             width="50px"
-            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/rust-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
           />
-        <span><sup><b>Rust</b></sup></span>
+        <span><sup><b>C</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
