@@ -21,7 +21,7 @@
 Student of media and computer science who takes himself too seriously
 - 🏢 Doing cooperative studies with [novomind](https://www.novomind.com/en/)
 - 😓 Overestimates himself and takes on far too big projects
-- 🤯 Trying to improve user experiences with tools and plugins
+- 🤯 Trying to improve user experiences with (nice) tools and plugins
 - 📫 Reachable on Discord ![Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
