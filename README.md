@@ -93,6 +93,15 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
+            alt="Delphi"
+            title="Delphi"
+            width="50px"
+            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
+          />
+        <span><sup><b>Pascal</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
             alt="MySQL"
             title="MySQL"
             width="50px"
@@ -102,12 +111,12 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
-            alt="Delphi"
-            title="Delphi"
+            alt="SurrealDB"
+            title="SurrealDB"
             width="50px"
-            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
+            src="https://github.com/surrealdb/.github/blob/main/img/icon.png"
           />
-        <span><sup><b>Pascal</b></sup></span>
+        <span><sup><b>SurrealDB</b></sup></span>
         </td>
   </tbody>
 </table>
