@@ -111,12 +111,12 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
-            alt="SurrealDB"
-            title="SurrealDB"
+            alt="SurrealQL"
+            title="SurrealQL"
             width="50px"
             src="https://github.com/surrealdb/.github/blob/main/img/icon.png"
           />
-        <span><sup><b>SurrealDB</b></sup></span>
+        <span><sup><b>SurrealQL</b></sup></span>
         </td>
   </tbody>
 </table>
