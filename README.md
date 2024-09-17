@@ -92,6 +92,15 @@ Student of media and computer science who takes himself too seriously
         </td>
       <td width="80px" align="center">
           <img
+            alt="C++"
+            title="C++"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
+          />
+        <span><sup><b>C</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
             alt="Delphi"
             title="Delphi"
             width="50px"
