@@ -63,7 +63,7 @@ Student of media and computer science who takes himself too seriously
           />
         <span><sup><b>Rust</b></sup></span>
         </td>
-      <td width="80px" align="center">
+      <!--td width="80px" align="center">
           <img
             alt="Go"
             title="Go"
@@ -71,7 +71,7 @@ Student of media and computer science who takes himself too seriously
             src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
           />
         <span><sup><b>Go</b></sup></span>
-        </td>
+    </td-->
       <td width="80px" align="center">
           <img
             alt="JavaScript"
